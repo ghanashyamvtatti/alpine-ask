@@ -1,4 +1,4 @@
-Flask==0.12.1
+Flask
 Flask-Ask==0.9.8
 dotted-dict==1.1.2
 requests==2.21.0
